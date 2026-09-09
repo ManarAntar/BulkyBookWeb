@@ -4,7 +4,7 @@ A full-featured e-commerce web application built with **ASP.NET Core MVC** and *
 
 ## About This Project
 
-Learn modern web development with ASP.NET Core, from fundamentals to advanced topics including:
+Learning modern web development with ASP.NET Core, from fundamentals to advanced topics including:
 - MVC Architecture Pattern
 - Entity Framework Core & Repository Pattern
 - Identity & Authentication
@@ -74,5 +74,3 @@ After first run, use these credentials to login as admin:
 - Update order status
 
 ---
-
-**⭐ If you found this project helpful, please star the repository!**
